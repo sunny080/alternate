@@ -48,7 +48,7 @@ darMode.addEventListener('click', () => {
      
   } else {
     toggle = false;
-    onclick=location.reload(sunPath)
+    
   }
 
 });
